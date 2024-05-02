@@ -1,0 +1,3 @@
+{"Name: "John", "Age":"31", "Gender":"Male"}
+{"Name: "Emma", "Age":"27", "Gender":"Female"}
+{"Name: "Ronald", "Age":"17", "Gender":"Male"}
